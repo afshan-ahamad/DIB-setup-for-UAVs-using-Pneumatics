@@ -8,5 +8,6 @@ controversially, as weapons platforms. Drones are now also used in a range of ci
 roles, search and rescue, surveillance, traffic monitoring, weather monitoring, 
 firefighting, personal use, drone-based photography, videography, agriculture as well as 
 for delivery services. etc...
+![PrototypeCAD](https://github.com/afshan-ahamad/Drone-in-a-box-setup-for-UAVs/assets/104277153/f3dd6e72-a0ad-47ff-ba42-14e2a0c3a8c4)
 ![Prototype](https://github.com/afshan-ahamad/Drone-in-a-box-setup-for-UAVs/assets/104277153/c0c84137-e5f6-48b1-b156-1b4c2a324f34)
-![Uploading Prototype_CAD.png…]()
+
